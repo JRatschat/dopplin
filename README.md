@@ -4,8 +4,6 @@ Dopplin is a two-player climbing and shedding game where players where players b
 
 I'm still working on the rules and playtesting, so there might be still daily changes to the files.
 
-**Important:** Player Aid and pcio file are currently outdated.
-
 ## Repository Contents
 
 This repository contains:
