@@ -1,6 +1,6 @@
 # Dopplin
 
-Dopplin is a two-player climbing and shedding game where players where players bid contracts and Aces shovel sets.
+Dopplin is a two-player climbing and shedding game where players bid contracts and Aces shovel sets.
 
 ## Repository Contents
 
